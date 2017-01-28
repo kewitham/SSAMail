@@ -1,0 +1,2 @@
+# SSAMail
+Angular mail application
